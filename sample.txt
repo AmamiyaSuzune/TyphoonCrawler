@@ -1,0 +1,274 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Digital Typhoon: Observation Data for Typhoon 202304 at 2023-07-15 06:00 (UTC)</title>
+<meta name="copyright" content="Copyright (C) 2001-2023 KITAMOTO Asanobu. All Rights Reserved.">
+<link rel="stylesheet" type="text/css" href="/digital-typhoon/base.css">
+<link rel="alternate" hreflang="ja" title="Japanese" href="/cgi-bin/dt/single2.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;lang=ja">
+</head>
+<body>
+<table class="NAVBAR">
+<tr><td class="TDNULL"><table class="CONTAINER"><tr>
+<td class="IDBARXSML"><nobr><a href="/~kitamoto/">KITAMOTO Asanobu</a>
+@
+<a href="/~kitamoto/contact/#NII">National Institute of Informatics (NII)</a></nobr></td>
+<td class="PADDING"></td>
+<td class="DELIMS">&gt;</td>
+<td class="IDBARBOX"><nobr><form action="/cgi-bin/search/geta_search.pl" method="get" enctype="application/x-www-form-urlencoded" class="IDBAR"><div class="FORM">
+<input type="text" name="input" size="15"><input type="hidden" name="sn" value="all"><input type="hidden" name="lang" value="en">
+</div></form></nobr></td>
+<td class="IDBAR"><nobr><a href="/search/">Search</a></nobr></td>
+<td class="DELIM">|</td>
+<td class="IDBAR"><nobr><a href="/sitemap/">Site Map</a></nobr></td>
+</tr></table></td></tr>
+<tr><td class="TDNULL"><table class="LOGO"><tr class="NAVBAR"><td class="LOGO"><h1 class="LOGO">Digital Typhoon: Observation Data for Typhoon 202304 at 2023-07-15 06:00 (UTC)</h1></td></tr></table></td></tr>
+<tr><td class="TDNULL"><table class="CONTAINER"><tr class="NAVIGATION">
+<td class="NAVIGATION"><nobr><a href="/~kitamoto/">Home</a></nobr></td>
+<td class="DELIM">&gt;</td>
+<td class="NAVIGATION"><nobr><a href="https://earth.nii.ac.jp/">Earth</a></nobr></td>
+<td class="DELIM">&gt;</td>
+<td class="NAVIGATION"><nobr><a href="/digital-typhoon/">Digital Typhoon</a></nobr></td>
+<script async="async" src="https://www.googletagmanager.com/gtag/js?id=UA-89206154-7"></script><script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      
+      gtag('config', 'UA-89206154-7');
+    </script><script async="true" src="https://www.googletagmanager.com/gtag/js?id=G-EEFB823SP7"></script><script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      
+      gtag('config', 'G-EEFB823SP7');
+    </script><td class="DELIM">|</td>
+<td class="NAVIGATION"><nobr><a href="/digital-typhoon/help/">Help</a></nobr></td>
+<td class="PADDING"></td>
+<td class="DELIM">&gt;</td>
+<td class="NAVIGATION"><nobr><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;lang=ja">Japanese</a></nobr></td>
+</tr></table></td></tr>
+</table>
+<div class="TYNAV"><table class="TYNAV" cellspacing="1"><tr>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071406&amp;id=202304&amp;basin=wnp&amp;lang=en">&lt; -24H</a></td>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071500&amp;id=202304&amp;basin=wnp&amp;lang=en">&lt; -6H</a></td>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071503&amp;id=202304&amp;basin=wnp&amp;lang=en">&lt; -3H</a></td>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071505&amp;id=202304&amp;basin=wnp&amp;lang=en">&lt; -1H</a></td>
+<td class="CURRENT">2023-07-15 06:00 (UTC)</td>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071507&amp;id=202304&amp;basin=wnp&amp;lang=en">+1H &gt;</a></td>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071509&amp;id=202304&amp;basin=wnp&amp;lang=en">+3H &gt;</a></td>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071512&amp;id=202304&amp;basin=wnp&amp;lang=en">+6H &gt;</a></td>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071606&amp;id=202304&amp;basin=wnp&amp;lang=en">+24H &gt;</a></td>
+</tr></table></div>
+<div class="CONTAINER"><table class="SUMMARY" cellspacing="1"><tr>
+<td class="SUMMARY" width="70%"><table class="INFOTAB" cellspacing="1">
+<tr><th class="SINGLEHEADING">Typhoon Status Images</th></tr>
+<tr><td class="FIGTAB"><table class="SUBSECTION" cellspacing="1"><tr>
+<td><div class="IMGEACH"><table class="IMGTAB" cellspacing="1">
+<tr><th class="IMGTAB">Full Disc Image</th></tr>
+<tr><td class="IMGTAB"><a class="IMGLINK" href="/cgi-bin/dt/search_image2.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;t=0&amp;b=14&amp;lang=en&amp;type=g&amp;size=256"><img src="/digital-typhoon/wnp/by-name/202304/g/256x256/HMW923071506.202304.jpg" alt="Typhoon 202304 : 2023-07-15 06:00 (UTC)"></a></td></tr>
+<tr><td class="CAPTION"><a href="/digital-typhoon/wnp/by-name/202304/g/512x512/HMW923071506.202304.jpg">Magnify this</a></td></tr>
+</table></div></td>
+<td><div class="IMGEACH"><table class="IMGTAB" cellspacing="1">
+<tr><th class="IMGTAB">Track Image</th></tr>
+<tr><td class="IMGTAB"><a class="IMGLINK" href="/cgi-bin/dt/search_image2.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;t=0&amp;b=14&amp;lang=en&amp;type=bm&amp;size=320x240"><img src="/digital-typhoon/wnp/by-name/202304/bm/320x240/HMW923071506.202304.jpg" alt="Typhoon 202304 : 2023-07-15 06:00 (UTC)"></a></td></tr>
+<tr><td class="CAPTION"><a href="/digital-typhoon/wnp/by-name/202304/bm/640x480/HMW923071506.202304.jpg">Magnify this</a></td></tr>
+</table></div></td>
+</tr></table></td></tr>
+<tr><th class="SINGLEHEADING">Meteorological Satellite Observation Images</th></tr>
+<tr><td class="FIGTAB"><table class="SUBSECTION" cellspacing="1"><tr>
+<td><div class="IMGEACH"><table class="IMGTAB" cellspacing="1">
+<tr><th class="IMGTAB">Visible</th></tr>
+<tr><td class="IMGTAB"><a class="IMGLINK" href="/cgi-bin/dt/search_image2.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;t=0&amp;b=14&amp;lang=en&amp;type=0&amp;size=128"><img src="/digital-typhoon/wnp/by-name/202304/0/128x128/HMW923071506.202304.jpg" alt="Typhoon 202304 : 2023-07-15 06:00 (UTC)"></a></td></tr>
+<tr><td class="CAPTION"><a href="/digital-typhoon/wnp/by-name/202304/0/512x512/HMW923071506.202304.jpg">Magnify this</a></td></tr>
+</table></div></td>
+<td><div class="IMGEACH"><table class="IMGTAB" cellspacing="1">
+<tr><th class="IMGTAB">Infrared 1</th></tr>
+<tr><td class="IMGTAB"><a class="IMGLINK" href="/cgi-bin/dt/search_image2.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;t=0&amp;b=14&amp;lang=en&amp;type=1&amp;size=128"><img src="/digital-typhoon/wnp/by-name/202304/1/128x128/HMW923071506.202304.jpg" alt="Typhoon 202304 : 2023-07-15 06:00 (UTC)"></a></td></tr>
+<tr><td class="CAPTION"><a href="/digital-typhoon/wnp/by-name/202304/1/512x512/HMW923071506.202304.jpg">Magnify this</a></td></tr>
+</table></div></td>
+<td><div class="IMGEACH"><table class="IMGTAB" cellspacing="1">
+<tr><th class="IMGTAB">Infrared 2</th></tr>
+<tr><td class="IMGTAB"><a class="IMGLINK" href="/cgi-bin/dt/search_image2.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;t=0&amp;b=14&amp;lang=en&amp;type=2&amp;size=128"><img src="/digital-typhoon/wnp/by-name/202304/2/128x128/HMW923071506.202304.jpg" alt="Typhoon 202304 : 2023-07-15 06:00 (UTC)"></a></td></tr>
+<tr><td class="CAPTION"><a href="/digital-typhoon/wnp/by-name/202304/2/512x512/HMW923071506.202304.jpg">Magnify this</a></td></tr>
+</table></div></td>
+<td><div class="IMGEACH"><table class="IMGTAB" cellspacing="1">
+<tr><th class="IMGTAB">Infrared 3</th></tr>
+<tr><td class="IMGTAB"><a class="IMGLINK" href="/cgi-bin/dt/search_image2.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;t=0&amp;b=14&amp;lang=en&amp;type=3&amp;size=128"><img src="/digital-typhoon/wnp/by-name/202304/3/128x128/HMW923071506.202304.jpg" alt="Typhoon 202304 : 2023-07-15 06:00 (UTC)"></a></td></tr>
+<tr><td class="CAPTION"><a href="/digital-typhoon/wnp/by-name/202304/3/512x512/HMW923071506.202304.jpg">Magnify this</a></td></tr>
+</table></div></td>
+<td><div class="IMGEACH"><table class="IMGTAB" cellspacing="1">
+<tr><th class="IMGTAB">Infrared 4</th></tr>
+<tr><td class="IMGTAB"><a class="IMGLINK" href="/cgi-bin/dt/search_image2.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;t=0&amp;b=14&amp;lang=en&amp;type=4&amp;size=128"><img src="/digital-typhoon/wnp/by-name/202304/4/128x128/HMW923071506.202304.jpg" alt="Typhoon 202304 : 2023-07-15 06:00 (UTC)"></a></td></tr>
+<tr><td class="CAPTION"><a href="/digital-typhoon/wnp/by-name/202304/4/512x512/HMW923071506.202304.jpg">Magnify this</a></td></tr>
+</table></div></td>
+</tr></table></td></tr>
+<tr><th class="SINGLEHEADING">Enhanced Images</th></tr>
+<tr><td class="FIGTAB"><table class="SUBSECTION" cellspacing="1"><tr>
+<td><div class="IMGEACH"><table class="IMGTAB" cellspacing="1">
+<tr><th class="IMGTAB">BD Enhanced</th></tr>
+<tr><td class="IMGTAB"><a class="IMGLINK" href="/cgi-bin/dt/search_image2.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;t=0&amp;b=14&amp;lang=en&amp;type=bd&amp;size=128"><img src="/digital-typhoon/wnp/by-name/202304/bd/128x128/HMW923071506.202304.jpg" alt="Typhoon 202304 : 2023-07-15 06:00 (UTC)"></a></td></tr>
+<tr><td class="CAPTION"><a href="/digital-typhoon/wnp/by-name/202304/bd/512x512/HMW923071506.202304.jpg">Magnify this</a></td></tr>
+</table></div></td>
+<td><div class="IMGEACH"><table class="IMGTAB" cellspacing="1">
+<tr><th class="IMGTAB">NHC Enhanced</th></tr>
+<tr><td class="IMGTAB"><a class="IMGLINK" href="/cgi-bin/dt/search_image2.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;t=0&amp;b=14&amp;lang=en&amp;type=nhc&amp;size=128"><img src="/digital-typhoon/wnp/by-name/202304/nhc/128x128/HMW923071506.202304.jpg" alt="Typhoon 202304 : 2023-07-15 06:00 (UTC)"></a></td></tr>
+<tr><td class="CAPTION"><a href="/digital-typhoon/wnp/by-name/202304/nhc/512x512/HMW923071506.202304.jpg">Magnify this</a></td></tr>
+</table></div></td>
+<td><div class="IMGEACH"><table class="IMGTAB" cellspacing="1">
+<tr><th class="IMGTAB">IR1-IR2</th></tr>
+<tr><td class="IMGTAB"><a class="IMGLINK" href="/cgi-bin/dt/search_image2.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;t=0&amp;b=14&amp;lang=en&amp;type=IR1-IR2&amp;size=128"><img src="/digital-typhoon/wnp/by-name/202304/IR1-IR2/128x128/HMW923071506.202304.jpg" alt="Typhoon 202304 : 2023-07-15 06:00 (UTC)"></a></td></tr>
+<tr><td class="CAPTION"><a href="/digital-typhoon/wnp/by-name/202304/IR1-IR2/512x512/HMW923071506.202304.jpg">Magnify this</a></td></tr>
+</table></div></td>
+<td><div class="IMGEACH"><table class="IMGTAB" cellspacing="1">
+<tr><th class="IMGTAB">IR4-IR1</th></tr>
+<tr><td class="IMGTAB"><a class="IMGLINK" href="/cgi-bin/dt/search_image2.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;t=0&amp;b=14&amp;lang=en&amp;type=IR4-IR1&amp;size=128"><img src="/digital-typhoon/wnp/by-name/202304/IR4-IR1/128x128/HMW923071506.202304.jpg" alt="Typhoon 202304 : 2023-07-15 06:00 (UTC)"></a></td></tr>
+<tr><td class="CAPTION"><a href="/digital-typhoon/wnp/by-name/202304/IR4-IR1/512x512/HMW923071506.202304.jpg">Magnify this</a></td></tr>
+</table></div></td>
+</tr></table></td></tr>
+<tr><th class="SINGLEHEADING">Analyzed Images</th></tr>
+<tr><td class="FIGTAB"><table class="SUBSECTION" cellspacing="1"><tr><td><div class="IMGEACH"><table class="IMGTAB" cellspacing="1">
+<tr><th class="IMGTAB">Eigen typhoon</th></tr>
+<tr><td class="IMGTAB"><a class="IMGLINK" href="/cgi-bin/dt/search_image2.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;t=0&amp;b=14&amp;lang=en&amp;type=e&amp;size=0"><img src="/digital-typhoon/wnp/by-name/202304/e/HMW923071506.202304.jpg" alt="Typhoon 202304 : 2023-07-15 06:00 (UTC)"></a></td></tr>
+<tr><td class="CAPTION"><a href="/digital-typhoon/wnp/by-name/202304/e/HMW923071506.202304.jpg">Magnify this</a></td></tr>
+</table></div></td></tr></table></td></tr>
+</table></td>
+<td class="SUMMARY" width="30%"><table class="METATAB" cellspacing="0">
+<tr><th class="INFOTAB">
+	Typhoon Information
+      </th></tr>
+<tr><th class="META">
+	Typhoon Name
+      </th></tr>
+<tr><td class="META"><a href="/digital-typhoon/summary/wnp/s/202304.html.en">Typhoon 202304 (TALIM)</a></td></tr>
+<tr><th class="META">
+	Basin
+      </th></tr>
+<tr><td class="META">W. North Pacific</td></tr>
+<tr><th class="INFOTAB">
+	Observation Time 
+      </th></tr>
+<tr><td class="META"><a href="/digital-typhoon/summary/wnp/l/202304.html.en#2023071506">2023-07-15 06:00 (UTC)</a></td></tr>
+<tr><td class="META">
+<div class="LISTTITLE">
+	  Next Operations
+	</div>
+<ul class="LISTITEM">
+<li><a href="/cgi-bin/dt/create_index.pl?lang=en&amp;year=2023&amp;month=07&amp;day=15&amp;hour=06&amp;basin=wnp&amp;tz=utc">Generate the top page of this hour</a></li>
+<li><a href="/cgi-bin/dt/search_day.pl?lang=en&amp;year=2023&amp;month=07&amp;day=15">Search typhoons of this day</a></li>
+<li><a href="/cgi-bin/dt/calendar.pl?start=26487&amp;end=26501&amp;lang=en&amp;basin=wnp">Display the timeline before/after 7 days</a></li>
+<li><a href="/cgi-bin/dt/sample.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;lang=en&amp;type=1&amp;size=128&amp;interval=1&amp;number=4">Image sequence (4 images before/after in 1h interval)</a></li>
+<li><a href="/cgi-bin/dt/sample.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;lang=en&amp;type=1&amp;size=128&amp;interval=3&amp;number=4">Image sequence (4 images before/after in 3h interval)</a></li>
+<li><a href="/cgi-bin/dt/sample.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;lang=en&amp;type=1&amp;size=128&amp;interval=12&amp;number=4">Image sequence (4 images before/after in 12h interval)</a></li>
+</ul>
+</td></tr>
+<tr><th class="INFOTAB">
+	Position
+      </th></tr>
+<tr><th class="META">
+	Latitude
+      </th></tr>
+<tr><td class="META">18.2</td></tr>
+<tr><th class="META">
+	Longitude
+      </th></tr>
+<tr><td class="META">117.8</td></tr>
+<tr><td class="META">
+<div class="LISTTITLE">
+	  Next Operations
+	</div>
+<ul class="LISTITEM"><li><a href="/cgi-bin/dt/track_geo.pl?lat=18.2&amp;lon=117.8&amp;radius=150&amp;mt=js&amp;lang=en">Search typhoons that passed within 150km</a></li></ul>
+</td></tr>
+<tr><th class="INFOTAB">
+	Intensity
+      </th></tr>
+<tr><th class="META">
+	Central Pressure
+      </th></tr>
+<tr><td class="META">994 hPa
+      </td></tr>
+<tr><th class="META">
+	Maximum Wind
+      </th></tr>
+<tr><td class="META">35 kt
+      </td></tr>
+<tr><th class="INFOTAB">
+	Satellite
+      </th></tr>
+<tr><td class="META"><a href="/digital-typhoon/help/satellite.html.en#HMW9">HIMAWARI-9</a></td></tr>
+<tr><th class="INFOTAB">
+	Full Disc Images
+      </th></tr>
+<tr><td class="META"><ul class="LISTITEM">
+<li><a href="/digital-typhoon/globe/color/2023/512x512/HMW923071506.globe.1.jpg">Infrared imagery (512x512)</a></li>
+<li><a href="/digital-typhoon/globe/color/2023/2048x2048/HMW923071506.globe.1.jpg">Infrared imagery (2048x2048)</a></li>
+<li><a href="/digital-typhoon/globe/color/2023/512x512/HMW923071506.globe.0.jpg">Visible imagery (512x512)</a></li>
+<li><a href="/digital-typhoon/globe/color/2023/2048x2048/HMW923071506.globe.0.jpg">Visible imagery (2048x2048)</a></li>
+<li><a href="/digital-typhoon/globe/color/2023/4096x4096/HMW923071506.globe.0.jpg">Visible imagery (4096x4096)</a></li>
+<li><a href="/digital-typhoon/globe/color/2023/8192x8192/HMW923071506.globe.0.jpg">Visible imagery (8192x8192)</a></li>
+<li><a href="/digital-typhoon/wallpaper/globe/1024x768/2023/HMW923071506.jpg">Wallpaper imagery (1024x768)</a></li>
+</ul></td></tr>
+<tr><th class="INFOTAB">
+	Himawari-8 IIIF Viewer 
+      </th></tr>
+<tr><td class="META"><ul class="LISTITEM">
+<li><a href="/digital-typhoon/himawari-3g/iiif/Hsfd/index.html?timeline=/digital-typhoon/himawari-3g/iiif/Hsfd/timeline.json&amp;cursorIndex=1689400800&amp;lang=en">Visible imagery (11000x11000)</a></li>
+<li><a href="/digital-typhoon/himawari-3g/iiif/Hsfd/index.html?timeline=/digital-typhoon/himawari-3g/iiif/Hsfd/timeline.json&amp;cursorIndex=1689400800&amp;lang=en&amp;full=1">Visible imagery (11000x11000) Full Page</a></li>
+</ul></td></tr>
+<tr><th class="INFOTAB">
+	Vertical Typhoon
+      </th></tr>
+<tr><td class="META"><ul class="LISTITEM">
+<li><a href="http://earth.nii.ac.jp/atmosphere/vertical-typhoon/h/?variable=RH&amp;plane=850&amp;j=59043390&amp;lang=en&amp;model=GSM&amp;typhoon=202304&amp;section=h&amp;azimuth=0">GSM (RH @ 850hPa)</a></li>
+<li><a href="http://earth.nii.ac.jp/atmosphere/vertical-typhoon/h/?variable=RH&amp;plane=850&amp;j=59043390&amp;lang=en&amp;model=MSM&amp;typhoon=202304&amp;section=h&amp;azimuth=0">MSM (RH @ 850hPa)</a></li>
+</ul></td></tr>
+<tr><th class="INFOTAB">
+	Weather Charts
+      </th></tr>
+<tr><td class="META"><ul class="LISTITEM"><li><a href="/cgi-bin/weather-chart/search_day.pl?lang=en&amp;year=2023&amp;month=7&amp;day=15">List of Weather Charts on 2023-07-15</a></li></ul></td></tr>
+<tr><th class="INFOTAB">
+	Weather Warnings
+      </th></tr>
+<tr><td class="META"><ul class="LISTITEM"><li><a href="/cps/weather/warning-map-history/?time=2023-07-15%2015:00:00">List of Weather Warnings on 2023-07-15 15:00</a></li></ul></td></tr>
+<tr><th class="INFOTAB">
+	Active Typhoon Maps
+      </th></tr>
+<tr><td class="META"><ul class="LISTITEM">
+<li><a href="/digital-typhoon/reference/daily/0715.html.en">Daily Typhoon Tracking Charts for July 15</a></li>
+<li><a href="/digital-typhoon/reference/monthly/jul.html.en">Daily Typhoon Tracking Charts for July</a></li>
+</ul></td></tr>
+<tr><th class="INFOTAB">
+	Analysis
+      </th></tr>
+<tr><td class="META">
+<div class="LISTTITLE">
+	  Next Operations
+	</div>
+<ul class="LISTITEM">
+<li><a href="/cgi-bin/dt/distinct.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp">Distinctiveness</a></li>
+<li><a href="/cgi-bin/dt/lyapunov.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;top=20">Lyapunov Exponent (+- 30 hours)</a></li>
+<li><a href="/cgi-bin/dt/lyapunov.pl?prefix=HMW923071506&amp;id=202304&amp;basin=wnp&amp;top=20&amp;max=30">Lyapunov Exponent (Unlimited time)</a></li>
+</ul>
+</td></tr>
+</table></td>
+</tr></table></div>
+<div class="TYNAV"><table class="TYNAV" cellspacing="1"><tr>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071406&amp;id=202304&amp;basin=wnp&amp;lang=en">&lt; -24H</a></td>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071500&amp;id=202304&amp;basin=wnp&amp;lang=en">&lt; -6H</a></td>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071503&amp;id=202304&amp;basin=wnp&amp;lang=en">&lt; -3H</a></td>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071505&amp;id=202304&amp;basin=wnp&amp;lang=en">&lt; -1H</a></td>
+<td class="CURRENT">2023-07-15 06:00 (UTC)</td>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071507&amp;id=202304&amp;basin=wnp&amp;lang=en">+1H &gt;</a></td>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071509&amp;id=202304&amp;basin=wnp&amp;lang=en">+3H &gt;</a></td>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071512&amp;id=202304&amp;basin=wnp&amp;lang=en">+6H &gt;</a></td>
+<td class="OTHER"><a href="/cgi-bin/dt/single2.pl?prefix=HMW923071606&amp;id=202304&amp;basin=wnp&amp;lang=en">+24H &gt;</a></td>
+</tr></table></div>
+<table class="NAVBAR"><tr><td class="TDNULL"><table class="CONTAINER"><tr class="NAVIGATION">
+<td class="PADDING"></td>
+<td class="NAVIGATION"><nobr><a href="/~kitamoto/contact/">Contact</a></nobr></td>
+<td class="DELIM">|</td>
+<td class="NAVIGATION"><nobr><a href="/site/">About This Site</a></nobr></td>
+<td class="DELIM">|</td>
+<td class="NAVIGATION"><nobr><a href="/whatsnew/">What's New</a></nobr></td>
+</tr></table></td></tr></table>
+</body>
+</html>
